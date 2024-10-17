@@ -1,0 +1,32 @@
+---- light / ericw-tools 2.0.0-alpha8-25-gd532580a ----
+LoadBSPFile: 'forsaken-crucible.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+Loading extended texinfo flags from forsaken-crucible.texinfo.json...
+33 entities read, 0 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+DecompressAllVis: invalid visofs for leaf 0
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	0 sky faces
+	8285 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 0 initial lights
+SetupLights: 0 after surface lights
+SetupLights: 0 after jittering
+Final count: 0 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 0
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing forsaken-crucible.bsp as Quake BSP bsp29
+0.114s seconds elapsed
+0 empty lightmaps
+
+
