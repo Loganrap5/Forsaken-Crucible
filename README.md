@@ -5,7 +5,7 @@ Multiplayer quake map.
 
 [Texturing](https://github.com/Loganrap5/quake/blob/main/Texturing.md)
 
-[Lighting](https://github.com/Loganrap5/quake/blob/main/Texturing.md)
+[Lighting](https://github.com/Loganrap5/quake/blob/main/Lighting.md)
 
 
 
