@@ -4,7 +4,7 @@ BSP is version Quake BSP bsp29
 INFO: using built-in palette.
 img::ConvertTextures: WARNING: invalid size data for 
 Loading extended texinfo flags from forsaken-crucible.texinfo.json...
-33 entities read, 0 are lights.
+159 entities read, 126 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
@@ -13,20 +13,22 @@ DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
 	0 sky faces
-	8285 solid faces
+	9567 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 0 initial lights
-SetupLights: 0 after surface lights
-SetupLights: 0 after jittering
-Final count: 0 lights, 0 suns in use.
+SetupLights: 126 initial lights
+SetupLights: 126 after surface lights
+SetupLights: 126 after jittering
+WARNING: couldn't nudge light out of solid at -676 520 -96
+WARNING: couldn't nudge light out of solid at -878 478 -96
+Final count: 126 lights, 0 suns in use.
 0 surface light points in use.
-lightmap size (total): 0
+lightmap size (total): 88268
 Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing forsaken-crucible.bsp as Quake BSP bsp29
-0.114s seconds elapsed
+0.323s seconds elapsed
 0 empty lightmaps
 
 

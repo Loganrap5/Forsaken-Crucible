@@ -1,0 +1,13 @@
+---- vis / ericw-tools 2.0.0-alpha8-25-gd532580a ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+LoadBSPFile: 'forsaken-crucible.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+************ ERROR ************
+LoadPrtFile: unknown header/empty portal file forsaken-crucible.prt
+
+
+
