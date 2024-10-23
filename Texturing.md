@@ -1,6 +1,7 @@
 Texturing
 
 Immersion and Theme
+
 I tried to choose a theme that uses crude textures like cobblestone for the walls, and the floor being fairly smooth. I also used wood textures for stairs, anchors for the balconys, and to wrap doorways. 
 ![Screenshot 2024-10-23 182529](https://github.com/user-attachments/assets/5cc8eaee-be60-4fc1-a544-b211e7b5d9e9)
 
