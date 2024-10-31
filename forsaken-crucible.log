@@ -7,80 +7,83 @@ Input file: C:\Users\Logan\OneDrive\Desktop\quake-leveldesign-starterkit-2024090
 Output file: C:\Users\Logan\OneDrive\Desktop\quake-leveldesign-starterkit-20240909-windows\quake\forsaken-crucible.bsp
 
 INFO: using built-in palette.
-    159 entities
-      8 unique textures
-    583 texinfos
-    576 unique planes
+    178 entities
+     24 unique textures
+    816 texinfos
+    846 unique planes
 
 INFO: world extents calculated to 50248 units
-      275 brushes
-    1,650 sides
-      124 side bevels
+      415 brushes
+    2,490 sides
+      198 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    275 SOLID brushes
-    275 brushes total
-    1,650 visible sides
-INFO: calculating BSP for 275 brushes with 1650 sides
-      275 brushes
-    1,650 visible faces
-    8,611 nodes
-    5,065 expensive split nodes
-    3,546 mid-split nodes
-    8,612 leaves
-    3,876 EMPTY leafs
-    4,736 SOLID leafs
-    8,612 leafs total
-    26 max tree height
-    17 avg tree height
-    121 tiny portals
-    30,237 tree portals
+    406 SOLID brushes
+      9 LAVA | Q2_UNUSED_8 brushes
+    415 brushes total
+    2,490 visible sides
+INFO: calculating BSP for 415 brushes with 2490 sides
+      415 brushes
+    2,490 visible faces
+    17,250 nodes
+    10,754 expensive split nodes
+     6,496 mid-split nodes
+    17,251 leaves
+       132 LAVA | Q2_UNUSED_8 leafs
+     7,498 EMPTY leafs
+     9,621 SOLID leafs
+    17,251 leafs total
+    29 max tree height
+    18 avg tree height
+    264 tiny portals
+    59,394 tree portals
 WARNING: Reached occupant "light" at (-620 470 -96), no filling performed.
 Leak file written to forsaken-crucible.pts
             5 portals written to forsaken-crucible.leak.prt
-    121 tiny portals
-    30,237 tree portals
-    9,047 sides visible
-    9,047 makefaces
-    1,288 merged
-      870 subdivided
-    1,032 nodes pruned
-    3,876 EMPTY leafs
-    3,704 SOLID leafs
-    7,580 leafs total
-    25 max tree height
-    17 avg tree height
-     3,782 edges added by tjunctions
-     8,559 faces optimized through MWT
-    20,938 triangles computed from MWT
-       938 faces created via optimization of MWT triangles
-    20,525 edges
-     9,567 faces
+    264 tiny portals
+    59,394 tree portals
+    17,729 sides visible
+    17,441 makefaces
+     2,079 merged
+     1,001 subdivided
+    1,837 nodes pruned
+       132 LAVA | Q2_UNUSED_8 leafs
+     7,498 EMPTY leafs
+     7,784 SOLID leafs
+    15,414 leafs total
+    29 max tree height
+    18 avg tree height
+     5,444 edges added by tjunctions
+    16,276 faces optimized through MWT
+    38,037 triangles computed from MWT
+     1,185 faces created via optimization of MWT triangles
+    37,312 edges
+    17,548 faces
 Processing hull 1...
 Processing hull 2...
-WARNING: worldspawn at 0 0 0 has long value for key wad (length 249 >= 127)
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 382 >= 127)
 Writing forsaken-crucible.bsp as Quake BSP bsp29
 Wrote forsaken-crucible.bsp
 
 count   lump name    byte size 
       1 models               64
-    430 planes             8600
-  10044 vertexes         120528
-   7579 nodes            181896
-    420 texinfos          16800
-   9567 faces            191340
-   2015 clipnodes         16120
-   3877 leafs            108556
-  12441 marksurfaces      24882
-  20526 edges             82104
-  40142 surfedges        160568
-      8 textures          71036
+    617 planes            12340
+  18384 vertexes         220608
+  15413 nodes            369912
+    591 texinfos          23640
+  17548 faces            350960
+   3238 clipnodes         25904
+   7631 leafs            213668
+  21961 marksurfaces      43922
+  37313 edges            149252
+  73220 surfedges        292880
+     24 textures         180540
         lightdata             0
         visdata               0
-        entdata           10190
+        entdata           10105
 
-1.866s seconds elapsed
+2.900s seconds elapsed
 
 
