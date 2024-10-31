@@ -1,5 +1,6 @@
-# quake
-Multiplayer quake map.
+# Forsaken Crucible
+
+Multiplayer quake map created by Logan Rappaport. Supports between 8-10 players. 
 
 [Pre-Production](https://github.com/Loganrap5/quake/blob/main/Preproduction.md)
 
